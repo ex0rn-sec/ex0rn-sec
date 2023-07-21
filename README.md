@@ -14,7 +14,7 @@
 
 ========================================
 
-🕵️‍♂️ Bug Hunter | Quality Guardian 📚 
+🧑‍💻 QA |🕵️‍♂️ Bug Hunter | Quality Guardian 📚 
 Studying the Art of Penetration Testing 🌐
 Exploring the Depths of Cybersecurity
 
