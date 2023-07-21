@@ -5,9 +5,22 @@
 |____ Automation QA Engineer | Penetration Tester
 ========================================
 
+<p align="left">
+      <a href="https://github.com/r00t-ex0rc1s7?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/r00t-ex0rc1s7?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/r00t-ex0rc1s7?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/r00t-ex0rc1s7?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+
+========================================
+
 🕵️‍♂️ Bug Hunter | Quality Guardian 📚 
 Studying the Art of Penetration Testing 🌐
 Exploring the Depths of Cybersecurity
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/r00t-ex0rc1s7"><img src="https://github-readme-stats.vercel.app/api?username=r00t-ex0rc1s7&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&show_icons=true" alt="r00t-ex0rc1s7's GitHub stats" /></a>
 
 ### Skills
 
@@ -27,12 +40,4 @@ Exploring the Depths of Cybersecurity
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/r00t-ex0rc1s7"><img src="https://github-readme-stats.vercel.app/api?username=r00t-ex0rc1s7&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&show_icons=true" alt="r00t-ex0rc1s7's GitHub stats" /></a>
-
 <a href="http://www.github.com/r00t-ex0rc1s7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=r00t-ex0rc1s7&stroke=ffffff&background=22272e&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/r00t-ex0rc1s7"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=r00t-ex0rc1s7&bg_color=22272e&color=ffffff&line=22c55e&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/r00t-ex0rc1s7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r00t-ex0rc1s7&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
