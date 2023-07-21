@@ -1,10 +1,13 @@
-Hi 👋 My name is r00t@ex0rc1s7: ~# whoami
-=========================================
+-[r00t@ex0rc1s7]-[~]
+<br>
+|__ $ whoami
+<br>
+|____ Automation QA Engineer | Penetration Tester
+========================================
 
-Automation QA Engineer | Penetration Tester
--------------------------------------------
-
-🕵️‍♂️ AQA Tester | Bug Hunter | Quality Guardian 📚 Studying the Art of Penetration testing 🌐 Exploring the Depths of Cybersecurity
+🕵️‍♂️ Bug Hunter | Quality Guardian 📚 
+Studying the Art of Penetration Testing 🌐
+Exploring the Depths of Cybersecurity
 
 ### Skills
 
