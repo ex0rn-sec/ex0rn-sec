@@ -39,5 +39,4 @@ Exploring the Depths of Cybersecurity
 <p align="left"> <a href="https://www.github.com/ex0rn-sec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/r00t.ex0rc1s7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/root_ex0rc1s7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
-
-<a href="http://www.github.com/ex0rn-sec"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ex0rn-sec&stroke=ffffff&background=22272e&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ex0rn-sec&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /></a>
