@@ -1,4 +1,4 @@
--[r00t@ex0rc1s7]-[~]
+-[ex0rn-sec]-[~]
 <br>
 |__ $ whoami
 <br>
