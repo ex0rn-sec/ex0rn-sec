@@ -40,4 +40,4 @@ Exploring the Depths of Cybersecurity
 
 ### Badges
 
-<a href="http://www.github.com/r00t-ex0rc1s7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=r00t-ex0rc1s7&stroke=ffffff&background=22272e&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/ex0rn-sec"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ex0rn-sec&stroke=ffffff&background=22272e&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
